@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Thanh
 
 🎓 I'm an **Information Systems student**  
-💻 Interested in **Backend, System, Linux, and DevOps**  
+💻 Interested in **System, Linux, and DevOps**  
 🚀 Passionate about learning, building, and automating things  
 
 ---
@@ -35,3 +35,4 @@
 ---
 
 ⭐ *Thanks for visiting my profile!*
+
