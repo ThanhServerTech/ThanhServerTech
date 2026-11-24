@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=180&section=header&text=Hi,%20I'm%20Thanh&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Information%20Systems%20Student%20%7C%20Linux%20%26%20DevOps%20Enthusiast&descSize=16&descAlignY=58" alt="header" />
+# 👋 Hi, I'm Thanh
+
+### 🎓 Information Systems Student &nbsp;·&nbsp; 💻 Linux & DevOps Enthusiast
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=560&lines=Learning%2C+building+and+automating+things;Linux+%7C+Bash+%7C+Git;Level+up+every+day+%F0%9F%8E%AE" alt="Typing SVG" />
@@ -28,7 +30,6 @@
 
 - 🌱 **Main quest:** System Administration
 - 🔧 **Skills unlocked:** Linux/Ubuntu, Git, Bash
-- 📚 **Study log:** Operating Systems · Algorithms · Databases
 - 🎮 **Off-duty:** Exploring Minecraft modpacks and new tech
 
 ---
@@ -77,7 +78,5 @@
 <br />
 
 ⭐ *Thanks for visiting! Press any key to continue...* 🎮
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=100&section=footer" alt="footer" />
 
 </div>
